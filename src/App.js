@@ -3,7 +3,7 @@ import HotelApp from './components/hotelApp';
 
 const App = () => {
   return (
-    <div className="App">
+    <div>
       <HotelApp />
     </div>
   );
